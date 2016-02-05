@@ -1,2 +1,2 @@
-# egghead_lessons
-code to support video tutorials
+# Egghead Lessons
+Example source code to support video tutorials that I make
